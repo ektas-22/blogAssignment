@@ -1,0 +1,25 @@
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  padding-top: 60px;
+  
+}
+.app {
+  font-family: Arial, sans-serif;
+  /* background-color: #ffffff; */
+  /* background-color: #FEA3AA; */
+  background-color: #E0CFE3;
+  color: #000000;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+footer {
+  padding: 20px;
+  background-color: #f2f2f2;
+}
+
+.dark {
+  background-color: #26272a;
+}
+
